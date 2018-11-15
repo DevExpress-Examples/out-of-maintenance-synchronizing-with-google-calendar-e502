@@ -1,3 +1,21 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [AppointmentSynchronizer.ascx](./CS/WebApplication2/AppointmentSynchronizer.ascx) (VB: [AppointmentSynchronizer.ascx.vb](./VB/WebApplication2/AppointmentSynchronizer.ascx.vb))
+* [AppointmentSynchronizer.ascx.cs](./CS/WebApplication2/AppointmentSynchronizer.ascx.cs) (VB: [AppointmentSynchronizer.ascx.vb](./VB/WebApplication2/AppointmentSynchronizer.ascx.vb))
+* [CalendarApiHelper.cs](./CS/WebApplication2/CalendarApiHelper.cs) (VB: [CalendarApiHelper.vb](./VB/WebApplication2/CalendarApiHelper.vb))
+* [CustomEvents.cs](./CS/WebApplication2/CustomEvents.cs) (VB: [CustomEvents.vb](./VB/WebApplication2/CustomEvents.vb))
+* [DataHelper.cs](./CS/WebApplication2/DataHelper.cs) (VB: [DataHelper.vb](./VB/WebApplication2/DataHelper.vb))
+* [Default.aspx](./CS/WebApplication2/Default.aspx) (VB: [Default.aspx.vb](./VB/WebApplication2/Default.aspx.vb))
+* **[Default.aspx.cs](./CS/WebApplication2/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebApplication2/Default.aspx.vb))**
+* [GoogleHelper.cs](./CS/WebApplication2/GoogleHelper.cs) (VB: [GoogleHelper.vb](./VB/WebApplication2/GoogleHelper.vb))
+* [CalendarApiHelper.cs](./CS/WebApplication2/Helpers/CalendarApiHelper.cs) (VB: [CalendarApiHelper.vb](./VB/WebApplication2/Helpers/CalendarApiHelper.vb))
+* [CustomEvents.cs](./CS/WebApplication2/Helpers/CustomEvents.cs) (VB: [CustomEvents.vb](./VB/WebApplication2/Helpers/CustomEvents.vb))
+* [DataHelper.cs](./CS/WebApplication2/Helpers/DataHelper.cs) (VB: [DataHelper.vb](./VB/WebApplication2/Helpers/DataHelper.vb))
+* [GoogleHelper.cs](./CS/WebApplication2/Helpers/GoogleHelper.cs) (VB: [GoogleHelper.vb](./VB/WebApplication2/Helpers/GoogleHelper.vb))
+* [oauth2callback.aspx](./CS/WebApplication2/oauth2callback.aspx) (VB: [oauth2callback.aspx.vb](./VB/WebApplication2/oauth2callback.aspx.vb))
+* [oauth2callback.aspx.cs](./CS/WebApplication2/oauth2callback.aspx.cs) (VB: [oauth2callback.aspx.vb](./VB/WebApplication2/oauth2callback.aspx.vb))
+<!-- default file list end -->
 # Synchronizing with Google Calendar
 
 
